@@ -35,12 +35,6 @@ A classic Snake Game built with Python’s Turtle module. Control the snake with
 
 ---
 
-## 🖼️ Gameplay Screenshot
-
-*(Add your screenshot or GIF here)*
-
----
-
 ## 📚 Learning Outcomes
 
 This project demonstrates:
